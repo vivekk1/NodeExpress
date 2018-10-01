@@ -4,9 +4,9 @@ This article is an entry in our Windows Azure Developer Challenge. Articles in t
 # Getting Started
 To get you started you can simply clone the NodeExpress repository and install the dependencies:
 # Prerequisites
-You need git to clone the NodeExpress. You can get git from here.
+You need git to clone the NodeExpress. You can get git from <a href='https://git-scm.com/'.></a>
 
-We also use a number of Node.js tools to initialize and test NodeExpress. You must have Node.js and its package manager (npm) installed. You can get them from <a href="https://github.com/vivekk1/NodeExpress.git">here</a>.
+We also use a number of Node.js tools to initialize and test NodeExpress. You must have Node.js and its package manager (npm) installed. You can get them from <a href="https://nodejs.org/en/">here</a>.
 Basic knowledge on Node.js, Express, Azure and Github.
 I strongly suggest you all to get some Theoretical definitions and look into some of Node.js with express examples, so you can easily go through this article. So let’s begin by briefly describing the concept’s.
 # Clone <code>NodeExpress</code></h3>
